@@ -1,0 +1,14 @@
+*.jar
+*.war
+*.ear
+target
+.classpath
+.settings
+.project
+.git
+*.iml
+.idea
+logs
+*.scss
+node_modules
+*.log
